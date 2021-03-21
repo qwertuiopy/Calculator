@@ -1,0 +1,4 @@
+let x = 4 //input your number here, 4 is only an example number.
+let y = 6 //input the number added to x, 6 is only an example number.
+let z = x + y //don't change this.
+console.log('the answer to your addition question is: ' + z)
